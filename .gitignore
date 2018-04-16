@@ -1,0 +1,8 @@
+
+*.DBF
+
+*.rds
+
+*.dcf
+
+project/.Rhistory
