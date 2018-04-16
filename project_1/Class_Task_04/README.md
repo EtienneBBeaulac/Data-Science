@@ -1,1 +1,0 @@
- I have not been able to finish this yet, I need to find a few more people to analyse my questions and then I need to find a Data Scientist to talk to about which question would be possible to accomplish in 2 months.
