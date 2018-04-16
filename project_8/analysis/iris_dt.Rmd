@@ -1,0 +1,27 @@
+---
+title: "DT"
+author: "Etienne Beaulac"
+date: "3/8/2018"
+output: 
+  html_document:
+    keep_md: true
+---
+## Datatables!
+```{r prepare, echo=TRUE, message=FALSE, warning=FALSE, eval=TRUE}
+library(DT)
+library(dplyr)
+hl.iris <- iris %>%
+  mutate(Species = case_when(Species == 'setosa' ~ paste0(paste0('<a href="http://www.twofrog.com/images/iris38a.jpg">', Species), '</a>'),
+                             Species == 'versicolor' ~ paste0(paste0('<a href="https://gardengoodsdirect.com/wp-content/uploads/2017/03/Iris_versicolor_3-600x600.jpg">', Species), '</a>'),
+                             Species == 'virginica' ~ paste0(paste0('<a href="https://www.gardensoyvey.com/uploads/9/6/0/9/96093654/s922031473971641085_p1099_i1_w1152.jpeg">', Species), '</a>')
+                             ))
+datatable(hl.iris,
+          editable = TRUE,
+          rownames = FALSE,
+          colnames = c('Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width', 'Species'),
+          caption = 'Explore the Iris dataset',
+          filter = 'top',
+          options = list(pageLength = 150, autoWidth = TRUE),
+          escape = FALSE)
+
+```
