@@ -1,11 +1,13 @@
-# M335_BeaulacE
-MCS 335 repository for NA coursework
-
-My name is Etienne Beaulac and I am a French Canadian. Do I like maple syrup? Yes, yes I do. Do I put it on everything? Almost. Why? Because it's __delicious__.
-
-The current structure of the class is created this way to push me to do my best on every assignment. It gives me a certain degree of freedom which helps me go beyond expectations and prove to myself that I can do great things. 
-I really like this setup because it resembles the workplace. 
-
------------
-My goals are to keep improving as much as I can. I want an A. But I also want an A in life. I don't want this to be just another class that I took; I want it to be a springboard.
-In order to do so I will make sure to keep doing all of the tasks and case studies on time and having put my pride into each one of them.
+# Data-Science
+Data science projects:
+- Case Study 2: Wealth and Life Expectancy (Gapminder)
+- Case Study 3: Becoming a databender
+- Case Study 4: Reducing Gun Deaths (FiveThirtyEight)
+- Case Study 5: I can clean your data
+- Case Study 6: The collapse of construction in Idaho
+- Case Study 7: Counting names in scripture
+- Case Study 8: It’s about time
+- Case Study 9: Interacting with time
+- Case Study 10: Building the past
+- Case Study 11: Interacting with space
+- Project: Analyzing Trump's tweets
