@@ -1,13 +1,13 @@
 # Data-Science
 Data science projects:
-- Case Study 2: Wealth and Life Expectancy (Gapminder)
-- Case Study 3: Becoming a databender
-- Case Study 4: Reducing Gun Deaths (FiveThirtyEight)
-- Case Study 5: I can clean your data
-- Case Study 6: The collapse of construction in Idaho
-- Case Study 7: Counting names in scripture
-- Case Study 8: It’s about time
-- Case Study 9: Interacting with time
-- Case Study 10: Building the past
-- Case Study 11: Interacting with space
-- Project: Analyzing Trump's tweets
+1. Wealth and Life Expectancy (Gapminder)
+2. Becoming a databender (NYC flights)
+3. Reducing Gun Deaths (FiveThirtyEight)
+4. I can clean your data (XLSX, CSV, ...)
+5. The collapse of construction in Idaho
+6. Counting names in scripture
+7. It’s about time (sales over time)
+8. Interacting with time (tickers, stocks)
+9. Building the past (building permits)
+10. Interacting with space (choropleth maps)
+11. Analyzing Trump's tweets (linear regression, machine learning, text mining, ...)
